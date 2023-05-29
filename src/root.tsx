@@ -28,7 +28,7 @@ export default function Root() {
       <Head>
         <PrefixTitle />
         <Meta charset="utf-8" />
-        <Link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <Link rel="icon" type="image/svg+xml" href="https://oss.jayce.icu/medias/logo.png" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
         <Link
           rel="apple-touch-icon"
